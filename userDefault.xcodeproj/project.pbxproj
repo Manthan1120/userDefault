@@ -13,6 +13,7 @@
 		DEE2E0A029C44AFD00C553BF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DEE2E09E29C44AFD00C553BF /* Main.storyboard */; };
 		DEE2E0A229C44AFE00C553BF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DEE2E0A129C44AFE00C553BF /* Assets.xcassets */; };
 		DEE2E0A529C44AFE00C553BF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DEE2E0A329C44AFE00C553BF /* LaunchScreen.storyboard */; };
+		DEE2E0AD29C44C2F00C553BF /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEE2E0AC29C44C2F00C553BF /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DEE2E0A129C44AFE00C553BF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DEE2E0A429C44AFE00C553BF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DEE2E0A629C44AFE00C553BF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DEE2E0AC29C44C2F00C553BF /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				DEE2E09A29C44AFD00C553BF /* SceneDelegate.swift */,
 				DEE2E09C29C44AFD00C553BF /* ViewController.swift */,
 				DEE2E09E29C44AFD00C553BF /* Main.storyboard */,
+				DEE2E0AC29C44C2F00C553BF /* ViewController2.swift */,
 				DEE2E0A129C44AFE00C553BF /* Assets.xcassets */,
 				DEE2E0A329C44AFE00C553BF /* LaunchScreen.storyboard */,
 				DEE2E0A629C44AFE00C553BF /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DEE2E09D29C44AFD00C553BF /* ViewController.swift in Sources */,
+				DEE2E0AD29C44C2F00C553BF /* ViewController2.swift in Sources */,
 				DEE2E09929C44AFD00C553BF /* AppDelegate.swift in Sources */,
 				DEE2E09B29C44AFD00C553BF /* SceneDelegate.swift in Sources */,
 			);
